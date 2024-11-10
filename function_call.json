@@ -1,0 +1,8 @@
+{
+    "function": "translate_text",
+    "parameters": {
+        "text": "Hello, how are you?",
+        "source_language": "en",
+        "target_language": "es"
+    }
+}
